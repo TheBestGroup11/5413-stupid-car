@@ -10,3 +10,5 @@ a still stupid car but has already modify some params
  缺东西：sudo apt-get install ros-noetic-teb-local-planner
  
  sudo apt-get install ros-noetic-rviz-imu-plugin
+
+![stupid car](https://github.com/TheBestGroup11/5413-stupid-car/assets/147392750/9c5f721d-8c2a-4c97-a20f-8a8fc7602786)
