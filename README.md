@@ -1,6 +1,10 @@
 # 5413-stupid-car
 a still stupid car but has already modify some params
 
+！！！请注意，愚蠢的Ubuntu无法识别空格，因此在本地尝试编译前，请将stupid car中间的空格改为下划线！！！
+
+
+
  更新了新版pgm地图，看了一些杂七杂八的git code 初步调参，还有一些问题。。。
  
  一些可能会遇到的问题：
