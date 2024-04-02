@@ -1,4 +1,4 @@
-# 5413-stupid-car
+# 5413-stupid-car-2.0版本，修正了分辨率导致的探索规划plan失败的问题
 a still stupid car but has already modify some params
 
 ！！！请注意，愚蠢的Ubuntu无法识别空格，因此在本地尝试编译前，请将stupid car中间的空格改为下划线！！！
