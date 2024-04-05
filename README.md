@@ -1,9 +1,10 @@
-# 5413-stupid-car-2.0版本，修正了分辨率导致的探索规划plan失败的问题
+# 5413-stupid-car-3.0版本，stupid 视觉
 a still stupid car but has already modify some params
 
 ！！！请注意，愚蠢的Ubuntu无法识别空格，因此在本地尝试编译前，请将stupid car中间的空格改为下划线！！！
-
-
+about 3.0版本：
+sudo apt-get install ros-noetic-find-object-2d，然后在主目录下新建objects文件夹，把模板4.png拷贝进去，正常launch即可
+此版本无导航功能，需要手动把车子开到附近
 
  更新了新版pgm地图，看了一些杂七杂八的git code 初步调参，还有一些问题。。。
  
